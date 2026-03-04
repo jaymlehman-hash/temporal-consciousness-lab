@@ -49,7 +49,7 @@ This study tests whether that structural difference produces a measurable signat
 ---
 
 ## Repository Structure
-'''
+
 temporal-consciousness-lab/
 │
 ├── README.md
@@ -66,7 +66,6 @@ temporal-consciousness-lab/
 │   └── temporal_coherence.ipynb
 ├── LICENSE
 └── LICENSE-CC-BY
-'''
 
 ---
 
