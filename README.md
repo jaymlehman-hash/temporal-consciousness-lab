@@ -1,13 +1,15 @@
 # Temporal Consciousness Lab  
 ### A Reproducible Framework for Studying Human vs. LLM Temporal Self‑Consistency
 
-Human consciousness has many proposed components—self‑awareness, integration, intentionality—but one feature stands out as both measurable and uniquely human: **temporal self‑consistency**, the ability to maintain a coherent internal narrative across time.
+Consciousness is one of the most familiar things we experience and one of the hardest things to explain. We know what it feels like to be “someone” with memories, preferences, and a continuous inner life, yet science still struggles to define what that actually is in measurable terms. You can google this and look through any theories that focus on self‑awareness, intention, or the ability to integrate information, but these ideas are difficult to test directly.
 
-This project introduces the first reproducible scientific framework for comparing **human temporal coherence** with **LLM temporal drift** under identical conditions.
+What can be measured, you might ask?  Well, one feature I find interesting that stands out because it can be observed, measured, and compared across systems: temporal self‑consistency.  Fancy word, eh? Otherwise known as the ability to maintain a stable sense of self over time. We (humans) do this naturally. Large language models do not. That difference creates a rare opportunity to study a core property of consciousness using reproducible, scientific methods.
 
-The goal is not to define consciousness philosophically.  
-The goal is to **measure a structural property of conscious experience** using controlled, multi‑session, multi‑participant experiments.
+This project introduces the first reproducible scientific framework for comparing **human temporal coherence** with **LLM temporal drift** under identical conditions.  In "Lehmans" terms (pun intended) I want to be the first to give scientists a repeatable, apples‑to‑apples way to test whether humans stay the same person over time while LLMs slowly change their story.
 
+The goal is not to define consciousness philosophically.  The goal is to measure one concrete part of consciousness by testing people several times in a controlled, repeatable way.
+
+Sounds like fun?
 ---
 
 ## Core Hypothesis
