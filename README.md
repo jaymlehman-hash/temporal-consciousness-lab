@@ -17,10 +17,10 @@ The goal is not to define consciousness philosophically.  The goal is to measure
 
 Supporting hypotheses:
 
-- **H1a:** LLMs exhibit measurable narrative drift even when asked to maintain a stable self‑model.  
-- **H1b:** Humans show stable self‑referential identity markers across time; LLMs reconstruct them dynamically.  
-- **H1c:** Temporal coherence correlates with metacognitive stability in humans but not in LLMs.  
-- **H1d:** LLM drift increases with time gaps, while human drift remains low or stable.
+- **H1a:** LLMs change their story over time, even when you tell them to stay consistent.
+- **H1b:** Humans keep the same basic sense of who they are across sessions, but LLMs rebuild their “identity” from scratch each time.
+- **H1c:** When humans stay consistent over time, their self‑reflection stays consistent too. LLMs don’t show this link, their self‑reflection drifts even when their answers look stable.
+- **H1d:** The longer you wait between sessions, the more LLMs drift. Humans stay mostly stable no matter the time gap.
 
 ---
 
@@ -38,14 +38,7 @@ This framework provides:
 
 ## Why Temporal Self‑Consistency?
 
-Consciousness may require:
-
-- a stable self‑model  
-- continuity of experience  
-- integration of past states into present reasoning  
-
-LLMs lack persistent internal state and reconstruct identity on demand.  
-This study tests whether that structural difference produces a measurable signature.
+Consciousness might depend on a few basic abilities: keeping a stable sense of who you are, feeling like your experiences form a continuous story, and using past information to guide what you think now. Humans do this naturally. LLMs don’t, they don’t have a real memory of themselves and rebuild their “identity” every time they answer. This study checks whether that difference shows up in a measurable way.
 
 ---
 
