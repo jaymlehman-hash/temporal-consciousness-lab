@@ -9,7 +9,6 @@ This project introduces the first reproducible scientific framework for comparin
 
 The goal is not to define consciousness philosophically.  The goal is to measure one concrete part of consciousness by testing people several times in a controlled, repeatable way.
 
-Sounds like fun?
 ---
 
 ## Core Hypothesis
